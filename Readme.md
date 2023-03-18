@@ -11,6 +11,7 @@ Crear, Editar, Ver y Eliminar Productos y categorias
 <img src="./readmeImg/createProduct.png" width="250px">
 
 Se pueden relacionar los productos a las respectivas categorias 
+
 <img src="./readmeImg/productCategory.png" width="250px">
 
 Tambien se puede tener un control completo de las reservaciones 
