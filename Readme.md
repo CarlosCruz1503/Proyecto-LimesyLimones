@@ -1,62 +1,73 @@
-## Limes&Limones
+# Web para restaurante Limes y Limones
 
-## Descripción del proyecto:
+Este proyecto es fue diseñado para un gastro bar, tiene diseñada en back y front una parte para los usuarios y comenzales del restaurante y tambien una parte administrativa diseñada para los dueños del restaurante 
 
-Limes&Limones es un bar mexicano que necesita mostrar su negocio a sus
-clientes y potenciales clientes. A su vez deben tener un menu digital donde poder
-ver sus productos.
+## Desde la vista de administración se puede
 
-## Objetivo:
+Crear, Editar, Ver y Eliminar Productos y categorias
 
-El usuario debe poder tener toda la información de la manera más intuitiva, fácil y
-simple de conseguir.
-Requisitos:
-1. Debe contar con un home llamativo donde se ilustre buena onda y fiesta.
-Limes&Limones 2
-2. Puede contar con secciones en diferentes páginas o las secciones una debajo de la
-otra
-en una simple web con scroll.
-3. Las secciones deben ser reconocibles y accesibles desde un menú.
-4. El sitio debe ser totalmente responsive.
-5. El menu digital solo debe mostrar los productos en forma de lista con nombre,
-imagen y precio.
-6. Debe existir un panel de admin donde se puedan agregar, eliminar, editar y ocultar
-los productos a mostrar.
+<img src="./readmeImg/categoryView.png" width="250px">
+<img src="./readmeImg/productView.png" width="250px">
+<img src="./readmeImg/createProduct.png" width="250px">
 
-## Páginas a desarrollar:
+Se pueden relacionar los productos a las respectivas categorias 
+<img src="./readmeImg/productCategory.png" width="250px">
 
-Home
-Carta digital
-Panel admin
+Tambien se puede tener un control completo de las reservaciones 
 
-## ¿Que debe hacer cada perfil?
+<img src="./readmeImg/reservations.png" width="250px">
 
-Project Manager: Definir objetivos, aplicar metodologías agiles (plataforma que
-mas guste) por favor añadir el usuario de IDentiKIT.app idkitapp@gmail.com a la
-plataforma seleccionada. Liderar y acompañar al equipo de diseño y desarrollo.
-UX: Research y prototipado.
-UI: Diseñar cada página.
-Frontend: Maquetación de cada página.
-Backend: Creación de la base de datos. Creación de la lógica y control de los
-datos. (API o con motor de plantillas)
-Fullstack: Puedes participar en el área que mas te sientas comod@
-Qa/Testing: Crear tests para validar los errores en cada página.
-DevOps: Crear un deploy para 3 ambientes: Dev, Staging y Production
 
-## Al finalizar:
+## Desde la vista de los usuarios
 
-El proyecto se agrega automáticamente a tu portfolio de IDentiKIT.app, lo puedes
-consultar desde tu perfil!
-Comparte tu trabajo y ayuda a otros IDentis de la comunidad.
-Cuenta tu experiencia en las redes para demostrar tus logros, así mismo
-nosotros nos encargaremos de darle la visibilidad necesaria al proyecto ;)
-Debe contar con un home llamativo donde se ilustre la experiencia de diversión.
--Puede contar con secciones en diferentes páginas o las secciones una debajo de la
-otra
-en una simple web con scroll.
--Las secciones deben ser reconocibles y accesibles desde un menú.
--El sitio debe ser totalmente responsive.
--Debe tener un formulario de contacto para contactar al jardín. El mensaje y los datos
-pueden guardarse en una base de datos y/o enviarse por email.
--Luego de enviarse el formulario, se debe mostrar un cartel de agradecimiento por el
-contacto.
+Puedes ver el lindo diseño de la web
+
+<img src="./readmeImg/desingWeb.png" width="250px">
+
+Puedes hacer reservaciones
+
+<img src="./readmeImg/makeReservation.png" width="250px">
+
+Puedes consultar la carta de forma interactiva
+
+<img src="./readmeImg/product.png" width="250px">
+
+
+## 🔗 DEMO:
+
+🤖Link Demo:(https://instagremi.vercel.app/home)
+
+# Lenguajes de Programación y Frameworks
+<div>
+  <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" width="40px">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="40px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" width="40px">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" width="40px">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="40px">
+    <img src="https://www.soat.fr/assets/images/formation/NodeJS.png" width="40px">
+  <img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" width="40px">
+</div>
+
+
+## 🔗 Links:
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://carloscruz.vercel.app)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-jose-cruz-luengas/)
+
+<a href="mailto:carlosjose445566@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+
+## Sobre Mi 
+
+¡Hola! Me llamo Carlos, apasionado por la programación.
+
+Me motiva aprender cada vez más, me apasiona el desarollo, he imaginar y luego programar algo en diferentes lenguajes como Python y JavaScript
+
+Mi objetivo principal es aprender tecnologías que me permitan desenvolverme profesionalmente como desarrollador de software.
+
+# Herramientas
+<div>
+  <img src="https://i.pinimg.com/originals/00/f4/05/00f40564d281eee8dbb931024b8e6975.png" width="40px">
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/git-icon-logo-png-transparent.png" width="40px">
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919847.png" width="40px">
+</div>
